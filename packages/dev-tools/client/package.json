@@ -1,4 +1,6 @@
 {
+  "name": "dev-tools-client",
+  "version": "0.1.0",
   "scripts": {
     "start": "expo start:web"
   },
